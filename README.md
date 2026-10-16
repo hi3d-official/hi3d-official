@@ -2,6 +2,8 @@
 
 **AI-powered 3D generation.**
 
+[International / 国际站](http://hi3d.ai/) · [China / 国内站](https://www.hi3d.cn/)
+
 Welcome to the official Hi3D GitHub account. Hi3D is an AI-powered 3D generation platform for creators and developers.
 
 ## Open source & developer resources
